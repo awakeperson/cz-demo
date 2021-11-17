@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # cz-demo
-commitzen
-=======
+commitzen 配置
+
 ## 微信公众号
 混子的日常
 ## 说明
@@ -13,4 +13,4 @@ Applicable always|never: never inverts the rule.
 Value: value to use for this rule.
 
 https://segmentfault.com/q/1010000040921026
->>>>>>> master
+
